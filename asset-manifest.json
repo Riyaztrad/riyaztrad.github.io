@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/feedApp/static/css/main.9d3a3741.chunk.css",
-    "main.js": "/feedApp/static/js/main.455059d5.chunk.js",
-    "main.js.map": "/feedApp/static/js/main.455059d5.chunk.js.map",
+    "main.js": "/feedApp/static/js/main.cfcb1e1c.chunk.js",
+    "main.js.map": "/feedApp/static/js/main.cfcb1e1c.chunk.js.map",
     "runtime-main.js": "/feedApp/static/js/runtime-main.023793cc.js",
     "runtime-main.js.map": "/feedApp/static/js/runtime-main.023793cc.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/feedApp/static/css/2.b57b7cfd.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.959830ed.chunk.js",
     "static/css/main.9d3a3741.chunk.css",
-    "static/js/main.455059d5.chunk.js"
+    "static/js/main.cfcb1e1c.chunk.js"
   ]
 }
